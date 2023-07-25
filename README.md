@@ -78,7 +78,7 @@
 
 <div>
   <img width="500" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/75f9e980-3615-47e8-a228-c099126b27cb">
-  <img width="500" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/f4e39cd6-d407-47fe-b355-e327f17adc34">
+  <img width="500" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/f68c7e8a-bb83-437e-a496-c093365011d1">
 </div>
 
 ## 3️⃣ 결론
