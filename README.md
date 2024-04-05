@@ -23,15 +23,12 @@
 <img width="743" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/4ab40502-7156-4afa-b25f-438aec7f8dad">
 
 #### 1-3. 상권, 생활인구 - 쓰레기통
-<img width="640" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/9573b71f-2ce0-4051-8077-140660a9e0e8">
 
 - 상권과 쓰레기통 개수를 시각화하여 비교한 것이다. 두 변수를 상관분석 했을 때 연관성은 0.71이다. 쓰레기통이 설치된 위치는 주변 상권 수와 관련이 있으므로, 추후 쓰레기통 입지 분석에서는 상권을 고려할 수 있다.
 - 쓰레기통수 상위 3 : 영등포구 > 마포구 > 서초구
 - 상권수 상위 3 : 강남구 > 영등포구 > 서초구
 
 </br>
-
-<img width="640" alt="image" src="https://github.com/HyenC/CigaretteButtBins/assets/38906574/fd188fe3-907e-4a84-8e80-6ed92badc867">
 
 - 시군구별로 평균을 낸 생활인구과 쓰레기통 위치를 시각화하여 비교한 것이다. 두 변수를 상관분석 했을 때 연관성은 0.15이다. 쓰레기통이 설치된 위치는 평균 생활인구 수와는 관련이 없어 보이므로, 추후 쓰레기통 입지 분석에서는 생활인구를 고려하지 않는다.
 - 평균 생활인구 수 상위 7 : 강동구>송파구>관악구>광진구>은평구>강서구>중랑구
